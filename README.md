@@ -7,3 +7,6 @@ Dashboard publish link 3:https://public.tableau.com/views/New_dashboard3/Dashboa
 Dashboard publish link 4:https://public.tableau.com/views/New_dashboard4/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Dashboard publish link 5:https://public.tableau.com/views/New_dashboard5/Dashboard5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Story 1 link:https://public.tableau.com/views/story1_16821445901940/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+video demonstration: https://drive.google.com/file/d/1-ImRYTqE20tpLdYMikyS6OyZwvU-5gZP/view?usp=drivesdk
